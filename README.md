@@ -19,14 +19,22 @@
 
 ## 📖 **Installation et Utilisation**
 
-1. **Ajout du bookmarklet à votre navigateur :**
-   - Copiez le code para.js dans la barre d'URL de votre navigateur (ou créez un favori)
+1. **Ajout du bookmarklet à votre navigateur :**  
+   - Ouvrez le fichier `para.js` pour récupérer son contenu.  
+   - Ajoutez **`javascript:`** au début du code si ce n'est pas déjà fait. Cela garantit que le navigateur interprète le code comme un bookmarklet.  
+   - Copiez l'intégralité du code (y compris `javascript:`) dans la barre d'URL de votre navigateur, ou créez un favori en collant le code comme URL.  
    - Nommez le favori : **Paramarklet**.
 
-2. **Exécution :**
-   - Accédez à une page web.
-   - Cliquez sur votre favori **Paramarklet**.
-   - Les résultats apparaîtront sous forme de boîte interactive sur la page.
+2. **Exécution :**  
+   - Accédez à une page web de votre choix.  
+   - Cliquez sur votre favori **Paramarklet**.  
+   - Les résultats s'afficheront sous forme de boîte interactive sur la page.
+
+---
+
+### Notes importantes :
+- Sans **`javascript:`**, le code sera interprété comme une URL classique et ne fonctionnera pas comme prévu.
+- Vous pouvez tester le bookmarklet directement après l'avoir ajouté pour vérifier son bon fonctionnement.
 
 ---
 
