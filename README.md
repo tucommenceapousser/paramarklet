@@ -1,7 +1,7 @@
 # **Paramarklet**  
 ### 📌 *Un bookmarklet puissant pour explorer les paramètres d'URL*
 
-![Paramarklet](https://i.top4top.io/p_3263s7x040.jpg)
+![Paramarklet](https://j.top4top.io/p_3263hrij91.jpg)
 
 ## 🚀 **À propos**  
 **Paramarklet** est un outil léger sous forme de bookmarklet qui permet d'explorer rapidement les paramètres des URL présents sur une page web. Que ce soit pour les développeurs, les pentesteurs ou les curieux, cet outil simplifie l'analyse des liens internes d'un site.
@@ -39,7 +39,7 @@
 ### **Résultats après exécution**  
 ![Après](https://j.top4top.io/p_3263hrij91.jpg)
 
-![Avant](https://i.top4top.io/p_3263s7x040.jpg)  
+
 ---
 
 ## ⚡ **Powered By**
